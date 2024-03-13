@@ -129,6 +129,7 @@ ul {
     font-size: 22px;
     font-weight: bold;
     color: #f4f6f7;
+    z-index: 100;
 
 }
 
@@ -198,6 +199,7 @@ footer {
         margin-top: -15px;
         height: 2900px;
         margin-left: -10px;
+        
 
 
 
@@ -226,7 +228,7 @@ footer {
     .buttom-1 {
         margin-top: 1120px;
         margin-left: -290px;
-        margin-right: auto;
+       
         
        
 
