@@ -18,8 +18,8 @@
     right: 0;
     left: 0;
     top: 0;
-    width: auto;
-    height: auto;
+    
+    
     min-width: 100%;
     min-height: 100%;
     z-index: -100;
@@ -195,12 +195,13 @@ footer {
     }
 
     .video-5 {
-
-        margin-top: -15px;
-        height: 2900px;
-        margin-left: -10px;
         
-
+        margin-top: -15px;
+        height: 1890px;
+        margin-left: -10px;
+        width: auto;
+       
+        
 
 
     }
@@ -228,7 +229,7 @@ footer {
     .buttom-1 {
         margin-top: 1120px;
         margin-left: -290px;
-       
+      
         
        
 
@@ -243,7 +244,7 @@ footer {
     }
 
     .box-1 {
-        width: 100%;
+        width: auto;
         margin: 0 auto;
     }
 
